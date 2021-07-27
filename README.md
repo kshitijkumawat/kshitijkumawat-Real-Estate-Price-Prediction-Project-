@@ -1,0 +1,2 @@
+# kshitijkumawat-Real-Estate-Price-Prediction-Project-
+It is a machine learning project for predicting the house prices based on various features. The model is been trained by train_test_split method . It includes data cleaning ,selecting a best model (In our case it is Linear Regression Model) with best parameters using GridSearchCV , using K-Fold cross verification for the selected model . In this project scatter plots bar graphs and histograms are been used in the process of removing the outliers.
